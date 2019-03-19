@@ -1,9 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping pattern="users" type="PLAIN_TEXT" />
-      <mapping pattern="delete me" type="PLAIN_TEXT" />
-      <mapping pattern="firestore" type="TypeScript" />
-    </extensionMap>
-  </component>
-</application>
