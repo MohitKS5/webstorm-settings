@@ -1,9 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="custom_instances" type="JavaScript" />
       <mapping pattern="fetchncount" type="JavaScript" />
-      <mapping pattern="users" type="PLAIN_TEXT" />
       <mapping pattern="delete me" type="PLAIN_TEXT" />
+      <mapping pattern="users" type="PLAIN_TEXT" />
       <mapping pattern="firestore" type="TypeScript" />
     </extensionMap>
   </component>
