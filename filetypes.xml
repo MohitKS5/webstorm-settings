@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="italics-mark" type="JavaScript" />
       <mapping pattern="custom_instances" type="JavaScript" />
       <mapping pattern="fetchncount" type="JavaScript" />
       <mapping pattern="delete me" type="PLAIN_TEXT" />
