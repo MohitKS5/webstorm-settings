@@ -6,6 +6,7 @@
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping pattern="makefile" type="PLAIN_TEXT" />
+      <mapping pattern="addresses.js" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
