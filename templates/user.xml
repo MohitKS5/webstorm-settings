@@ -6,7 +6,7 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="&lt;abbreviation&gt;" value="import { createSlice } from '@reduxjs/toolkit'&#10;import { loadingReducers } from 'features/shared'&#10;&#10;const slice = createSlice({&#10;&#9;name: '$name$',&#10;&#9;initialState: {},&#10;&#9;reducers: {&#10;&#9;&#9;...loadingReducers&#10;&#9;}&#10;})&#10;&#10;// actions&#10;export const { apiCallSuccess, apiCallStart, apiCallFail } = slice.actions&#10;&#10;// selectors&#10;export const $name$Reducer = slice.reducer" toReformat="true" toShortenFQNames="true">
+  <template name="&lt;abbreviation&gt;" value="import { createSlice } from '@reduxjs/toolkit'&#10;import { loadingReducers } from 'features/shared'&#10;&#10;const slice = createSlice({&#10;&#9;name: '$name$',&#10;&#9;initialState: {},&#10;&#9;reducers: {&#10;&#9;&#9;...loadingReducers&#10;&#9;}&#10;})&#10;&#10;// actions&#10;export const { apiCallSuccess, apiCallStart, apiCallFail } = slice.actions&#10;&#10;// selectors&#10;export const $name$Reducer = slice.reducer" description="" toReformat="true" toShortenFQNames="true">
     <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="ES6_STATEMENT" value="true" />
